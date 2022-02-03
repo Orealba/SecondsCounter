@@ -1,41 +1,20 @@
-# Hello World with React boilerplate
-<p>
-  <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
-  </a>
-</p>
+![4Geeks Logo](https://4geeksacademy.com//images/4geeks-logo.png)
+# Seconds Counter
+## Owners:
+### - Orealba Soriano
 
-This template is similar to create-react-app but it's meant for 4Geeks Academy students.
+## Explicación del proceso 
 
-##### Download the boilerplate using git
+El contador de segundos es un ejercicio básico que tiene un poco de complejidad a la hora de colocar los números, pero es fácil hacer siempre y cuando se entienda cómo colocar los números para que el contador funcione correctamente. Hice un componente único donde desarrollé todo el código para el ejercicio. Importé todo entre sí y luego hice el código con funciones y props.
 
-```
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
-$ cd react-hello
-```
 
-##### and install the npm package:
-```
-$ npm install
-```
+Nuestro proyecto contiene:
 
-## Start coding!
+1.         Funciones.
+2.         Props.
+3.         Variables.
+4.         La función SetInterval para que funcione el contador.
 
-For Windows, Mac, Linux or Gitpod, start the webpack server with live reload:
-- `$ npm run start`
-
-You can update the `styles/index.css` or `js/index.js` depending on your needs.
-Add more files into your, `./src/js/components` or styles folder as you need them.
-
-## Publish your website!
-
-This boilerplate is 100% compatible with the free [github pages](https://pages.github.com/) and [vercel](https://vercel.com/) hosting.
-
-It takes just 2 minutes to deploy, [click here to start the process](https://github.com/4GeeksAcademy/react-hello/blob/master/docs/DEPLOY.md).
-
-## Other features
-
-- Automatic Code Formatting: Use of [Prettier](https://prettier.io/) for automatic code indentation and formatting.
-- Error reporting: Use of [eslint](https://eslint.org/) for better error reporting.
-- Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
-- One-command publish of the code to github pages with `npm run deploy:github`.
-- Babel 7 (really fast).
+## Compilar el código
+Para compilar el código es necesario introducir el siguiente comando en la terminal:
+$ pip3 install flask && python3 server.py
